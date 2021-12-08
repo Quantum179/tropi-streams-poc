@@ -127,6 +127,14 @@ export default {
           url: "",
           favorited: false
         },
+        {
+          name: "Freestyle de l'Avent #2 (Géo Trouvetou)",
+          artist: "Shun",
+          cover: require('@/assets/geo.png'),
+          source: require('@/assets/geo.wav'),
+          url: "",
+          favorited: false
+        },
         // {
         //   name: "Freestyle de l'avent #1 (Prèstans)",
         //   artist: "Shun",
