@@ -135,6 +135,14 @@ export default {
           url: "",
           favorited: false
         },
+        {
+          name: "Freestyle de l'Avent #3 (Ka Yo Ké Di)",
+          artist: "Shun",
+          cover: require('@/assets/kayokedi.png'),
+          source: require('@/assets/kayokedi.wav'),
+          url: "",
+          favorited: false
+        },
         // {
         //   name: "Freestyle de l'avent #1 (Prèstans)",
         //   artist: "Shun",
